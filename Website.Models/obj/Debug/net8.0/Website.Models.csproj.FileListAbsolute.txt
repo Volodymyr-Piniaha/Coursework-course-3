@@ -1,0 +1,14 @@
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.csproj.AssemblyReference.cache
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.AssemblyInfoInputs.cache
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.AssemblyInfo.cs
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.csproj.CoreCompileInputs.cache
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\bin\Debug\net8.0\Website.Models.deps.json
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\bin\Debug\net8.0\Website.Models.runtimeconfig.json
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\bin\Debug\net8.0\Website.Models.dll
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\bin\Debug\net8.0\Website.Models.pdb
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.dll
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\refint\Website.Models.dll
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.pdb
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\Website.Models.genruntimeconfig.cache
+D:\6 семестр\Курсова робота\Project\Website\Website.Models\obj\Debug\net8.0\ref\Website.Models.dll
